@@ -1,0 +1,29 @@
+.Pai-dos-itens {
+    background-color: rgb(221, 102, 102);
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Pai-dos-itens img {
+    width: 350px;
+}
+
+.Pai-dos-itens button { 
+
+    width: 200px;
+    border: 2px rgb(10, 10, 10) solid;
+    border-radius: 4px;
+    color: black;
+    padding: 5px 10px;
+    box-shadow: black 3px 3px 0px;
+    background-color: rgb(253, 248, 248);
+    align-items: center;
+}
+
+.Pai-dos-itens .index { 
+    text-align: center;
+}
+

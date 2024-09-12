@@ -1,0 +1,9 @@
+.membro { 
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    margin: 5px;
+    gap: 20px;
+    flex-direction: column;
+
+}
