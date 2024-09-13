@@ -1,0 +1,10 @@
+.planos {
+    display: flex;
+    gap: 30px;
+}
+
+.planos .Academia { 
+    width: 300px;
+    background-color: rgb(104, 190, 190)
+
+}

@@ -1,4 +1,4 @@
-.Pai-dos-itens {
+.planos {
 
     display: flex;
     gap: 20px;
@@ -7,12 +7,9 @@
 
 }
 
-.Pai-dos-itens img {
-    width: 350px;
-    height: 350px;
-}
 
-.Pai-dos-itens button { 
+
+.planos button { 
 
     width: 200px;
     border: 2px rgb(10, 10, 10) solid;
@@ -24,7 +21,7 @@
     align-items: center;
 }
 
-.Pai-dos-itens .index { 
+.planos .academia { 
     text-align: center;
     background-color: brown;
 }
@@ -34,4 +31,3 @@
     align-items: center;
     justify-content: center;
 }
-

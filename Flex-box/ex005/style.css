@@ -1,0 +1,10 @@
+.rodapé { 
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.rodapé .coluna {
+    display: flex;
+    flex-direction: column;
+}
